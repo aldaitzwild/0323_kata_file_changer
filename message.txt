@@ -1,0 +1,18 @@
+Bonjour je m'appelle #NAME# et j'adore faire du PHP !
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Ut tincidunt vel dui porta volutpat. Curabitur accumsan vehicula ultricies. 
+Nulla commodo justo #NAME# auctor vestibulum at vitae dolor. Aliquam id ex velit. 
+Morbi et posuere purus, eget porta ante. Duis bibendum interdum magna ac gravida. 
+Duis cursus ipsum in risus consequat auctor.
+
+Sed elit lectus, sollicitudin et sapien vel, auctor porta quam. 
+Proin #NAME# eu ipsum at dictum. Quisque ultricies magna non felis viverra suscipit. 
+Suspendisse a sagittis nulla. Cras cursus velit at finibus pellentesque. 
+Cras ullamcorper ac risus nec commodo. Morbi euismod nunc a arcu sodales, 
+non lobortis orci ultrices. Suspendisse congue #NAME# dui id pharetra. 
+Vestibulum vehicula est vel purus ullamcorper, eget cursus magna imperdiet.
+
+Cordialement,
+
+#NAME#
